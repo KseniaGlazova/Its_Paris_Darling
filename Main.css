@@ -63,3 +63,25 @@ body {
     top: 10%;
     left: 29%;
 }
+.newCollectionChezSoi {
+    font-family: "Times New Roman",Serif;
+    color: #ffffff;
+    font-size: 60px;
+}
+.sliderNameBlock {
+    text-align: center;
+    margin: 158px auto 0;
+    width: 479px;
+}
+.buttonExplore {
+    background-color: white;
+    display: block;
+    text-align: center;
+    width: 150px;
+    margin: 30px auto 0;
+}
+.buttonExplore> a {
+    color: black;
+    line-height: 45px;
+    text-decoration: none;
+}
